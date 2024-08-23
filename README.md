@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @payyy2play
+- 👋 Hi, I’m @Mali707
 - 👀 I’m interested in Getting rich off WebDev
 - 🌱 I’m currently learning Frontend Web Development
 - 💞️ I’m looking to collaborate on Designing Comprehensive Websites to enhance user experience
